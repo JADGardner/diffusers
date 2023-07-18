@@ -1,0 +1,3 @@
+[submodule "flame_diffusion/mtcnn"]
+	path = flame_diffusion/mtcnn
+	url = https://github.com/ipazc/mtcnn.git
